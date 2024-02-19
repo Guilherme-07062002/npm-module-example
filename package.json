@@ -1,0 +1,13 @@
+{
+  "name": "my-module",
+  "version": "1.0.0",
+  "description": "Criação de um módulo simples com npm",
+  "main": "./lib/index.js",
+  "bin": {
+    "my-module": "bin/myfirstmodule.js"
+  },
+  "keywords": [],
+  "author": "Guilherme Gomes de Medeiros",
+  "license": "ISC",
+  "preferGlobal": true
+}
